@@ -1,0 +1,82 @@
+#home {
+    padding-top: 5%;
+    background-color: white;
+}
+
+#home h2 {
+    font-size: 300%;
+}
+
+#home h4 {
+    color: black;
+}
+nav .container .navbar-logo {
+    width: 22px;
+    height: 22px;
+}
+
+#bannerImg {
+    max-width:110%;
+    max-height:110%;
+}
+
+#services {
+    background-color: black;
+    color: white;
+}
+
+#services img {
+    width: 200px;
+    height: 200px;
+}
+
+.col-lg-12 h5{
+    color: white;
+}
+
+#feature {
+    background-color: white;
+}
+
+#feature img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#contact {
+    background-color: navy;
+    color: white;
+}
+
+#footer {
+    background-color: black;
+}
+
+.kreatrrlogo {
+    width: 30%;
+    height: auto;
+}
+
+.upperlogo {
+    text-align: center;
+    background-color: white;
+    padding-top: 5%;
+}
+
+.pt-2 {
+    text-align: center;
+}
+
+.form-inline {
+    text-align: center;
+    margin: auto;
+}
+
+.form-group {
+    text-align: center;
+    margin: auto;
+}
+
+btn {
+    padding-top: 2%;
+}
