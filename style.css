@@ -80,3 +80,8 @@ nav .container .navbar-logo {
 btn {
     padding-top: 2%;
 }
+
+#communityImage {
+    height: 500%;
+    width: 500%;
+}
