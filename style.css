@@ -28,4 +28,7 @@ body {
 a {
     background-color: orangered !important;
     color: orangered;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
