@@ -65,6 +65,13 @@ img {
     height: 90%;
     padding: 5%;
     margin-bottom: 30px;
+    color: white;
+    background-color: black;
+    border: orangered 2px solid;
+}
+
+#post:hover {
+    background-color: orangered;
 }
 
 .btn .btn-outline-warning {
